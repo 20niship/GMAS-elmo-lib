@@ -31,7 +31,7 @@
 
 ============================================================================
 */
-#include "mmc_definitions.h"
+#include "MMC_definitions.h"
 #include "mmcpplib.h"
 #include "CPP_CyclicPosHome.h"	// Application header file.
 #include <iostream>

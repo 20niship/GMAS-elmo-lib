@@ -10,7 +10,7 @@
 
 #include "EMBLObject.h"
 #include <mmc_definitions.h>
-//#include "mmc_definitions.h"
+//#include "MMC_definitions.h"
 //#include "mmcpplib.h"
 
 typedef int (*INIT_FUNC_PTR)(MMC_CONNECT_HNDL,MMC_AXIS_REF_HNDL,void*,void*);

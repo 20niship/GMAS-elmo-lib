@@ -13,7 +13,7 @@
 #pragma warning( disable : 4290 )
 #endif
 
-#include "mmc_definitions.h"
+#include "MMC_definitions.h"
 #include "MMCAxis.h"
 #include "MMCNode.h"
 #include "MMCMotionAxis.h"

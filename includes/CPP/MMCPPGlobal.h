@@ -31,7 +31,7 @@
 #include <stdlib.h>
 #include <string.h>
 #include <fstream>
-#include "mmc_definitions.h"
+#include "MMC_definitions.h"
 //
 //
 //using std::cout;

@@ -23,7 +23,7 @@ The following features are demonstrated for a CAN network (Due to SYNC and PDO i
 
 ============================================================================
 */
-#include "mmc_definitions.h"
+#include "MMC_definitions.h"
 #include "mmcpplib.h"
 #include "CPP_DemoCAN.h"			// Application header file.
 #include <iostream>

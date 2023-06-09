@@ -8,7 +8,7 @@
 #ifndef CMMCMOTIONAXIS_H_
 #define CMMCMOTIONAXIS_H_
 
-#include "mmc_definitions.h"
+#include "MMC_definitions.h"
 #include "MMCNode.h"
 #include "MMCPPGlobal.h"
 

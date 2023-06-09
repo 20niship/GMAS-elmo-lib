@@ -209,7 +209,7 @@ public:
                 /* Return 0 when everything ok and as expecting.                */
                 /*          E.g:                                                */
                 /*          int     iSeq=0;                                     */
-                /*          …                                                   */
+                /*          ï¿½                                                   */
                 /*          iSeq++;                                             */
                 /*          LogMsg(LOG_CRIT, "Good Message Number %d", iSeq);   */
                 /* Call with !!! DEFAULT LEVEL !!!                              */

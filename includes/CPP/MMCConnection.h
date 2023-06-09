@@ -8,7 +8,7 @@
 #ifndef MMCPPCONNECTION_H_
 #define MMCPPCONNECTION_H_
 
-#include "mmc_definitions.h"
+#include "MMC_definitions.h"
 #include "MMCPPGlobal.h"
 
 

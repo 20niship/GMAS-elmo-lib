@@ -11,7 +11,7 @@
 #include <stdio.h>
 #include <string.h>
 #include <string>
-#include "mmc_definitions.h"
+#include "MMC_definitions.h"
 //
 #ifndef DLLMMCPP_API
 #ifdef WIN32

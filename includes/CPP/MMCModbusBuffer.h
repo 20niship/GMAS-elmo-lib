@@ -7,7 +7,7 @@
 
 #ifndef CMMCMODBUSBUFFER_H_
 #define CMMCMODBUSBUFFER_H_
-#include "mmc_definitions.h"
+#include "MMC_definitions.h"
 #include "MMCPPGlobal.h"
 
 class DLLMMCPP_API CMMCModbusBuffer {

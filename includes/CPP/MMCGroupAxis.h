@@ -8,7 +8,7 @@
 #ifndef MMCGROUPAXIS_H_
 #define MMCGROUPAXIS_H_
 
-#include "mmc_definitions.h"
+#include "MMC_definitions.h"
 #include "MMCAxis.h"
 #include "MMCMotionAxis.h"
 

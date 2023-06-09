@@ -8,7 +8,7 @@
 #ifndef MMCPIBULK_H_
 #define MMCPIBULK_H_
 
-#include "mmc_definitions.h"
+#include "MMC_definitions.h"
 #include "MMCPPGlobal.h"
 #include "MMCPIVar.h"
 

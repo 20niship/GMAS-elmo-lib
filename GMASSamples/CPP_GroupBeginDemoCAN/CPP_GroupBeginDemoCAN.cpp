@@ -33,7 +33,7 @@
 ============================================================================
 */
 
-#include "mmc_definitions.h"
+#include "MMC_definitions.h"
 #include "mmcpplib.h"
 #include "CPP_GroupBeginDemoCAN.h"	// Application header file.
 #include <iostream>
@@ -159,7 +159,7 @@ void MainInit()
 		//		unsigned char ucPDOType)
 		// Config UI1 and UI2 to be sent OnChange from Drive to Host after emit is sent.
 		cAxes[i].ConfigPDO(PDO_NUM_3,PDO_PARAM_USE,
-				0x20,	// Bit 5. User program “emit” command emits PDO.
+				0x20,	// Bit 5. User program ï¿½emitï¿½ command emits PDO.
 				0 ,		// Timer
 				NC_COMM_EVENT_GROUP12,
 				254,	// ucPDOCommParam
